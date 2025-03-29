@@ -5,7 +5,7 @@ Official Python client library for the [Audioscrape](https://www.audioscrape.com
 ## Installation
 
 ```bash
-pip install audioscrape
+pip install audioscrape-sdk
 ```
 
 ## Authentication

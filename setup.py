@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="audioscrape",
+    name="audioscrape-sdk",
     version="0.1.0",
     author="Audioscrape Team",
     author_email="support@audioscrape.com",
